@@ -9,9 +9,27 @@
 
 ---
 
+## Contents
+
 ## Introduction
 
-## Examples
+## Variables
+```java
+String name = "Jordan"; //text - double quotes
+int number = 1; //integer - no decimal
+float decimal = 1.2; //decimal
+char letter = 'a'; //single character - single quotes
+boolean value = true; //true or false
+
+- - -
+
+String language; //declare without value
+language = "Java"; //then assign value
+
+- - -
+
+final int newNumber = 2; //value cannot be overwritten
+```
 
 ## License
 
